@@ -1,0 +1,1 @@
+pkg update && pkg upgrade;pkg install ruby cowsay toilet figlet;pkg install neofetch;gem install lolcat;cd ../usr/etc;pkg install nano;nano bash.bashrc
